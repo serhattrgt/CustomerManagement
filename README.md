@@ -6,6 +6,7 @@ This project is a simple Customer Management System (CRUD - Create, Read, Update
 
 The project follows a standard Maven and Spring Boot project structure:
 
+ ```bash
 Customers/
 ├── .idea/
 ├── .mvn/
@@ -39,7 +40,7 @@ Customers/
 ├── mvnw
 ├── mvnw.cmd
 └── pom.xml
-
+```
 ## Technologies Used
 
 *   **Java**: The main programming language. (See version in `pom.xml`)
